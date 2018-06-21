@@ -1,0 +1,19 @@
+{
+    "name": "sule-odu/resultchecker",
+    "description": "O'Level Result Verification Service",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Sule-Odu Adedayo",
+            "email": "suleodu.adedayo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Repositories\\": "app/Repositories"
+        }
+    }
+}

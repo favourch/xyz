@@ -1,0 +1,2 @@
+[10-Oct-2016 13:24:51 America/Denver] PHP Warning:  sprintf(): Too few arguments in /home/tasueded/public_html/my/admin/bursary/clear_admin/index.php on line 63
+[18-Oct-2016 07:40:41 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/tasueded/public_html/my/include/top_nav_bar.php on line 396

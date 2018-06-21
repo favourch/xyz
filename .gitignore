@@ -1,5 +1,5 @@
-# Object file
-*.o
+/PHPMailer/
+/mpdf/
+/phpexcel/
 
-# Ada Library Information
-*.ali
+

@@ -1,0 +1,12 @@
+[21-Sep-2017 04:48:57 America/Denver] PHP Warning:  require_once(../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/tp/tp_admin/tp_admin.php on line 21
+[21-Sep-2017 04:48:57 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/tp/tp_admin/tp_admin.php on line 21
+[21-Sep-2017 06:00:27 America/Denver] PHP Fatal error:  Call to undefined function check_auth() in /home/tasueded/public_html/my/tp/admin/index.php on line 9
+[21-Sep-2017 06:02:59 America/Denver] PHP Fatal error:  Call to undefined function check_auth() in /home/tasueded/public_html/my/tp/admin/index.php on line 9
+[21-Sep-2017 06:27:57 America/Denver] PHP Warning:  require_once(../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/tp/admin/repost.php on line 19
+[21-Sep-2017 06:27:57 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/tp/admin/repost.php on line 19
+[21-Sep-2017 06:28:52 America/Denver] PHP Warning:  require_once(../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/tp/admin/repost.php on line 19
+[21-Sep-2017 06:28:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/tp/admin/repost.php on line 19
+[21-Sep-2017 06:29:53 America/Denver] PHP Warning:  require_once(../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/tp/admin/repost.php on line 23
+[21-Sep-2017 06:29:53 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/tp/admin/repost.php on line 23
+[21-Sep-2017 06:33:07 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/tasueded/public_html/my/tp/admin/repost.php on line 115
+[21-Sep-2017 06:33:10 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/tasueded/public_html/my/tp/admin/repost.php on line 115

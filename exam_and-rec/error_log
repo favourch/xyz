@@ -1,0 +1,23 @@
+[23-Feb-2018 03:40:15 America/Denver] PHP Fatal error:  Call to undefined function check_auth() in /home/tasueded/public_html/my/exam_and-rec/index.php on line 9
+[23-Feb-2018 03:52:35 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 409
+[23-Feb-2018 03:52:35 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 454
+[25-Feb-2018 13:29:01 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 409
+[25-Feb-2018 13:29:01 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 454
+[05-Mar-2018 04:53:34 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 450
+[05-Mar-2018 04:53:34 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 495
+[05-Mar-2018 04:53:44 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 450
+[05-Mar-2018 04:53:44 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 495
+[05-Mar-2018 04:53:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 450
+[05-Mar-2018 04:53:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 495
+[05-Mar-2018 04:53:59 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 450
+[05-Mar-2018 04:53:59 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 495
+[05-Mar-2018 05:32:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 450
+[05-Mar-2018 05:32:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 495
+[05-Mar-2018 05:32:43 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 450
+[05-Mar-2018 05:32:43 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 495
+[21-Mar-2018 14:16:14 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 459
+[21-Mar-2018 14:16:14 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 504
+[11-May-2018 05:25:09 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 459
+[11-May-2018 05:25:09 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 504
+[11-May-2018 05:57:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 459
+[11-May-2018 05:57:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/exam_and-rec/transprint.php on line 504

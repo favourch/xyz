@@ -1,0 +1,5 @@
+[29-Dec-2015 14:10:48 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/research/research_modal.php on line 88
+[10-Oct-2016 15:17:56 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/research/___research_modal.php on line 96
+[10-Oct-2016 15:17:56 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/research/___research_modal.php on line 96
+[10-Oct-2016 15:17:59 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/research/research_modal.php on line 88
+[10-Oct-2016 15:17:59 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/research/research_modal.php on line 88

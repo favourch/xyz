@@ -1,0 +1,46 @@
+[09-Sep-2015 03:17:27 America/Denver] PHP Warning:  require_once(../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 6
+[09-Sep-2015 03:17:27 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 6
+[09-Sep-2015 03:19:46 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:19:46 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:19:46 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:19:46 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:20:07 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:20:07 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:20:07 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:20:07 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:22:43 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:22:43 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:22:43 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:22:43 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:23:25 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:23:25 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:23:25 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:23:25 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:24:08 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:24:08 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:24:08 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:24:08 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:24:51 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:24:51 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:24:51 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:24:51 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:28:10 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:28:10 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:28:10 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:28:10 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:38:01 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:38:01 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:38:01 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:38:01 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:39:57 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:39:57 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:39:57 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:39:57 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:40:42 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:40:42 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:40:42 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:40:42 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69
+[09-Sep-2015 03:41:05 America/Denver] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:41:05 America/Denver] PHP Warning:  simplexml_load_string():  in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:41:05 America/Denver] PHP Warning:  simplexml_load_string(): ^ in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 67
+[09-Sep-2015 03:41:05 America/Denver] PHP Fatal error:  Call to a member function children() on a non-object in /home/tasueded/public_html/my/clearance_fee/mastercard/processpayment.php on line 69

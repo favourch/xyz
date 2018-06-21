@@ -1,0 +1,7 @@
+[17-Aug-2017 05:13:46 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/tasueded/public_html/my/olevel_service/admin/veri_code/process.php on line 218
+[16-Oct-2017 10:03:47 America/Denver] PHP Fatal error:  Call to a member function set_notification() on null in /home/tasueded/public_html/my/functions/function.php on line 1298
+[16-Oct-2017 10:10:29 America/Denver] PHP Fatal error:  Call to a member function set_notification() on null in /home/tasueded/public_html/my/functions/function.php on line 1298
+[16-Oct-2017 11:54:28 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/tasueded/public_html/my/olevel_service/admin/veri_code/process.php on line 122
+[16-Oct-2017 11:55:06 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tasueded/public_html/my/olevel_service/admin/veri_code/process.php on line 136
+[16-Oct-2017 11:55:08 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tasueded/public_html/my/olevel_service/admin/veri_code/process.php on line 136
+[16-Oct-2017 11:56:14 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tasueded/public_html/my/olevel_service/admin/veri_code/process.php on line 136

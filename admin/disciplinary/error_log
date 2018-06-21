@@ -1,0 +1,95 @@
+[26-May-2016 03:33:38 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tasueded/public_html/demo/functions/function.php:278) in /home/tasueded/public_html/demo/admin/disciplinary/index.php on line 65
+[10-Jun-2016 06:44:13 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[10-Jun-2016 06:44:13 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[10-Jun-2016 06:44:13 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[10-Jun-2016 06:44:13 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[10-Jun-2016 06:51:28 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[10-Jun-2016 06:51:28 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[10-Jun-2016 06:51:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[10-Jun-2016 06:51:53 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[15-Sep-2016 09:24:18 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[15-Sep-2016 09:24:18 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[15-Sep-2016 09:30:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[15-Sep-2016 09:30:16 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[16-Sep-2016 06:50:21 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[16-Sep-2016 06:50:21 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[16-Sep-2016 07:02:37 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[16-Sep-2016 07:02:37 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[30-Sep-2016 05:27:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[30-Sep-2016 05:27:55 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[04-Nov-2016 09:42:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[04-Nov-2016 09:42:55 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[04-Nov-2016 09:45:11 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[04-Nov-2016 09:45:11 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[07-Nov-2016 07:28:04 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[07-Nov-2016 07:28:04 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[16-Dec-2016 06:22:42 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[16-Dec-2016 06:22:42 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[23-Dec-2016 04:03:28 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[23-Dec-2016 04:03:28 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[30-Dec-2016 08:04:27 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[30-Dec-2016 08:04:27 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[03-Jan-2017 10:10:46 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[03-Jan-2017 10:10:46 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[04-Jan-2017 02:18:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[04-Jan-2017 02:18:54 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[04-Jan-2017 02:19:20 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[04-Jan-2017 02:19:20 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[04-Jan-2017 02:19:45 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[04-Jan-2017 02:19:45 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[11-Jan-2017 03:25:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[11-Jan-2017 03:25:13 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[23-Jan-2017 09:26:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[23-Jan-2017 09:26:56 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[17-Feb-2017 04:16:28 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[17-Feb-2017 04:16:28 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[20-Apr-2017 08:05:19 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[20-Apr-2017 08:05:19 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[03-May-2017 08:41:21 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[03-May-2017 08:41:21 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[17-May-2017 05:35:00 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[17-May-2017 05:35:00 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[22-May-2017 04:42:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[22-May-2017 04:42:53 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[22-May-2017 09:18:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[22-May-2017 09:18:25 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[23-May-2017 04:45:05 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[23-May-2017 04:45:05 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[23-May-2017 08:39:22 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[23-May-2017 08:39:22 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[26-May-2017 02:40:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[26-May-2017 02:40:55 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[26-May-2017 09:00:01 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[26-May-2017 09:00:01 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[19-Jun-2017 09:19:21 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[19-Jun-2017 09:19:21 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[19-Jun-2017 09:20:14 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[19-Jun-2017 09:20:14 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[24-Jul-2017 13:23:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[24-Jul-2017 13:23:32 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[03-Jan-2018 02:31:14 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[03-Jan-2018 02:31:14 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[11-Jan-2018 06:44:20 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[11-Jan-2018 06:44:20 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[11-Jan-2018 06:55:40 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[11-Jan-2018 06:55:40 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[11-Jan-2018 07:29:47 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[11-Jan-2018 07:29:47 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[11-Jan-2018 07:30:44 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[11-Jan-2018 07:30:44 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[15-Jan-2018 07:27:29 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[15-Jan-2018 07:27:29 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[14-Feb-2018 07:28:24 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[14-Feb-2018 07:28:24 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[14-Feb-2018 09:17:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[14-Feb-2018 09:17:16 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[26-Apr-2018 08:01:27 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[26-Apr-2018 08:01:27 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[02-May-2018 10:19:59 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[02-May-2018 10:19:59 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[11-May-2018 04:26:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[11-May-2018 04:26:12 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[30-May-2018 06:46:56 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[30-May-2018 06:46:56 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170
+[30-May-2018 06:51:01 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 150
+[30-May-2018 06:51:01 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home/tasueded/public_html/my/admin/disciplinary/index.php on line 170

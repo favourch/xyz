@@ -1,0 +1,15 @@
+[07-Jan-2018 07:07:17 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 29
+[07-Jan-2018 07:08:27 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 29
+[07-Jan-2018 07:08:38 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 23
+[07-Jan-2018 07:11:29 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 30
+[07-Jan-2018 07:11:32 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 30
+[07-Jan-2018 07:15:51 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 23
+[07-Jan-2018 07:18:22 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 23
+[07-Jan-2018 07:18:41 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 23
+[07-Jan-2018 07:18:54 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 23
+[07-Jan-2018 07:19:11 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 23
+[07-Jan-2018 07:23:18 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 24
+[07-Jan-2018 07:27:57 America/Denver] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 24
+[07-Jan-2018 10:42:08 America/Denver] PHP Fatal error:  Call to undefined function get() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 138
+[07-Jan-2018 10:43:47 America/Denver] PHP Fatal error:  Call to undefined function get() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 138
+[07-Jan-2018 10:43:49 America/Denver] PHP Fatal error:  Call to undefined function get() in /home/tasueded/public_html/my/api/application/models/course_model.php on line 138

@@ -1,0 +1,4 @@
+[04-Jan-2016 15:56:26 America/Denver] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tasueded/public_html/my/Connections/tams.php on line 9
+[04-Jan-2016 15:56:26 America/Denver] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tasueded/public_html/my/Connections/tams.php on line 9
+[04-Jan-2016 15:56:39 America/Denver] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tasueded/public_html/my/Connections/tams.php on line 9
+[04-Jan-2016 15:56:39 America/Denver] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tasueded/public_html/my/Connections/tams.php on line 9

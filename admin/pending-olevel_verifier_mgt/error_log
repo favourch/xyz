@@ -1,0 +1,17 @@
+[03-Sep-2015 13:35:58 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/tasueded/public_html/portal/tams/admin/olevel_verifier_mgt/printreport2.php on line 106
+[08-Oct-2015 08:26:17 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/tasueded/public_html/my/admin/olevel_verifier_mgt/printreport2.php on line 110
+[09-Nov-2015 05:19:43 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 25191
+[26-Nov-2015 02:40:17 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 23108
+[26-Nov-2015 02:40:56 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 23108
+[26-Nov-2015 02:41:21 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 23108
+[26-Nov-2015 02:49:47 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 2897
+[26-Nov-2015 02:50:34 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 2897
+[02-Dec-2015 05:29:09 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 25209
+[04-Dec-2015 06:34:29 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 2897
+[04-Dec-2015 06:35:51 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 63484 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 10586
+[06-Dec-2015 14:44:56 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/tasueded/public_html/my/admin/olevel_verifier_mgt/printreport.php on line 144
+[07-Dec-2015 04:47:21 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 317288 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 13312
+[07-Dec-2015 04:47:53 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 25209
+[07-Dec-2015 05:38:04 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 2897
+[16-Dec-2015 03:57:05 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 317288 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 13312
+[16-Dec-2015 03:57:40 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/tasueded/public_html/my/mpdf/mpdf.php on line 2897

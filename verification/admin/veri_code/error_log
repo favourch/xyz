@@ -1,0 +1,2 @@
+[15-Dec-2016 06:58:58 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/tasueded/public_html/my/verification/admin/veri_code/printreport.php on line 133
+[15-Dec-2016 07:01:32 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/tasueded/public_html/my/verification/admin/veri_code/printreport.php on line 133

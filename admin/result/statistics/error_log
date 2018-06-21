@@ -1,0 +1,91 @@
+[27-Jul-2016 07:46:10 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[27-Jul-2016 07:49:41 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[27-Jul-2016 07:50:08 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[28-Jul-2016 09:04:16 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[02-Aug-2016 05:54:21 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[02-Aug-2016 05:55:23 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[03-Aug-2016 09:45:53 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[07-Aug-2016 09:47:33 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[12-Aug-2016 06:09:01 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[17-Aug-2016 06:26:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[18-Aug-2016 12:13:41 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[18-Aug-2016 17:35:49 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/result/statistics/index.php on line 78
+[19-Aug-2016 04:57:46 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 6
+[19-Aug-2016 04:57:46 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 6
+[19-Aug-2016 04:57:54 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 6
+[19-Aug-2016 04:57:54 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 6
+[19-Aug-2016 05:00:49 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[19-Aug-2016 05:01:53 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[19-Aug-2016 05:05:34 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Aug-2016 08:56:18 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/result/statistics/stat_list.php on line 6
+[27-Aug-2016 08:56:18 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/result/statistics/stat_list.php on line 6
+[27-Aug-2016 08:56:52 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/result/statistics/stat_list.php on line 6
+[27-Aug-2016 08:56:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/result/statistics/stat_list.php on line 6
+[18-Sep-2016 00:59:12 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[18-Sep-2016 01:09:20 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[18-Oct-2016 12:42:00 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[08-Nov-2016 09:29:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[08-Nov-2016 09:29:38 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[28-Dec-2016 08:41:15 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[28-Dec-2016 08:41:37 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[14-Feb-2017 06:20:52 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[14-Feb-2017 06:21:24 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[14-Feb-2017 06:21:37 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[14-Feb-2017 06:26:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[25-Apr-2017 10:03:34 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[30-May-2017 05:59:22 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Jul-2017 17:38:26 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Jul-2017 17:38:52 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Aug-2017 09:40:48 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[08-Oct-2017 01:35:51 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[08-Oct-2017 05:01:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[15-Oct-2017 14:19:03 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[15-Oct-2017 14:19:03 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[15-Oct-2017 14:19:39 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[19-Oct-2017 07:18:19 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[19-Oct-2017 12:28:35 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[20-Oct-2017 16:21:53 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[23-Oct-2017 04:33:33 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Oct-2017 19:11:21 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[02-Nov-2017 13:42:41 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[03-Nov-2017 12:55:34 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[09-Nov-2017 15:54:23 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[15-Nov-2017 10:55:01 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[29-Dec-2017 20:29:03 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[11-Jan-2018 18:09:23 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[04-Feb-2018 09:43:22 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[04-Feb-2018 10:19:16 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[11-Feb-2018 21:50:36 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[11-Feb-2018 21:51:14 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[16-Feb-2018 18:11:35 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[19-Feb-2018 21:42:09 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[19-Feb-2018 23:58:38 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[20-Feb-2018 00:57:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[20-Feb-2018 05:50:19 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[20-Feb-2018 09:14:11 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[20-Feb-2018 15:15:51 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[21-Feb-2018 08:47:55 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[21-Feb-2018 22:11:11 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[22-Feb-2018 08:16:38 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[23-Feb-2018 08:39:45 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[24-Feb-2018 00:00:15 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[24-Feb-2018 02:29:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[25-Feb-2018 01:00:11 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[25-Feb-2018 01:01:09 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Feb-2018 20:34:43 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Feb-2018 20:34:54 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[27-Feb-2018 20:40:53 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78
+[02-Mar-2018 05:57:17 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[02-Mar-2018 06:45:33 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[02-Mar-2018 14:15:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[03-Mar-2018 03:15:29 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[04-Mar-2018 01:28:05 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[05-Mar-2018 16:49:59 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[27-Mar-2018 11:33:17 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[05-Apr-2018 08:25:53 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[05-Apr-2018 08:27:55 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[05-Apr-2018 08:28:21 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[05-Apr-2018 08:28:31 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[05-Apr-2018 08:28:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[24-Apr-2018 17:50:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77
+[29-May-2018 08:00:07 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 9 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 77

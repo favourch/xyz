@@ -1,0 +1,7 @@
+[15-Jul-2017 10:54:36 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282602 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198
+[15-Jul-2017 11:21:22 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282202 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198
+[18-Jul-2017 05:03:56 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282198 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198
+[20-Jul-2017 09:23:31 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282301 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198
+[20-Jul-2017 09:23:33 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282301 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198
+[20-Jul-2017 09:23:36 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282301 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198
+[20-Jul-2017 09:24:57 America/Denver] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 22282301 bytes) in /home/tasueded/public_html/my/olevel_service/admin/print_olevel.php on line 198

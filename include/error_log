@@ -1,0 +1,35 @@
+[13-Jun-2016 05:37:46 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/page_header.php on line 31
+[13-Jun-2016 05:37:46 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/top_nav_bar.php on line 3
+[13-Jun-2016 05:37:46 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/side_nav_bar.php on line 16
+[13-Jun-2016 05:37:46 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/1top_nav_bar.php on line 3
+[13-Jun-2016 05:37:46 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/__top_nav_bar.php on line 3
+[13-Jun-2016 05:37:46 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/1side_nav_bar.php on line 16
+[21-Apr-2017 19:03:45 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/page_header.php on line 64
+[21-Apr-2017 19:03:45 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/top_nav_bar.php on line 3
+[21-Apr-2017 19:03:46 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/___page_header.php on line 31
+[21-Apr-2017 19:03:46 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/1side_nav_bar.php on line 16
+[21-Apr-2017 19:03:46 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/side_nav_bar.php on line 16
+[21-Apr-2017 19:03:46 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/__top_nav_bar.php on line 3
+[21-Apr-2017 19:03:46 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/1top_nav_bar.php on line 3
+[21-Apr-2017 19:04:10 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/page_header.php on line 64
+[21-Apr-2017 19:09:21 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/page_header.php on line 64
+[21-Apr-2017 19:09:22 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/top_nav_bar.php on line 3
+[21-Apr-2017 19:09:22 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/page_header.php on line 64
+[21-Apr-2017 19:09:22 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/page_header.php on line 64
+[21-Apr-2017 19:09:22 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/top_nav_bar.php on line 3
+[21-Apr-2017 19:09:23 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/top_nav_bar.php on line 3
+[21-Apr-2017 19:09:23 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/side_nav_bar.php on line 16
+[21-Apr-2017 19:09:23 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/1top_nav_bar.php on line 3
+[21-Apr-2017 19:09:23 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/side_nav_bar.php on line 16
+[21-Apr-2017 19:09:24 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/1top_nav_bar.php on line 3
+[21-Apr-2017 19:09:24 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/side_nav_bar.php on line 16
+[21-Apr-2017 19:09:24 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/__top_nav_bar.php on line 3
+[21-Apr-2017 19:09:25 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/__top_nav_bar.php on line 3
+[21-Apr-2017 19:09:25 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/1top_nav_bar.php on line 3
+[21-Apr-2017 19:09:26 America/Denver] PHP Fatal error:  Call to undefined function getSessionValue() in /home/tasueded/public_html/my/include/__top_nav_bar.php on line 3
+[21-Apr-2017 19:09:26 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/1side_nav_bar.php on line 16
+[21-Apr-2017 19:09:26 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/1side_nav_bar.php on line 16
+[21-Apr-2017 19:09:27 America/Denver] PHP Fatal error:  Call to undefined function getAccess() in /home/tasueded/public_html/my/include/1side_nav_bar.php on line 16
+[21-Apr-2017 19:09:27 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/___page_header.php on line 31
+[21-Apr-2017 19:09:27 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/___page_header.php on line 31
+[21-Apr-2017 19:09:28 America/Denver] PHP Fatal error:  Call to a member function get_notification() on a non-object in /home/tasueded/public_html/my/include/___page_header.php on line 31

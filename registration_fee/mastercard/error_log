@@ -1,0 +1,16 @@
+[05-Nov-2017 05:09:27 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:27 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:30 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:30 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:33 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:33 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:35 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:35 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:45 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:45 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:52 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:53 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:53 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:55 America/Denver] PHP Warning:  require_once(Connections/tams.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/path.php on line 2
+[05-Nov-2017 05:09:55 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'Connections/tams.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/path.php on line 2

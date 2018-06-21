@@ -1,0 +1,3 @@
+[27-Jul-2016 08:32:16 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 6
+[27-Jul-2016 08:32:16 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 6
+[19-Aug-2016 04:56:19 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/tasueded/public_html/my/admin/result/statistics/index.php on line 78

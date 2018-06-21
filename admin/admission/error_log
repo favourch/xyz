@@ -1,0 +1,8 @@
+[12-Sep-2017 15:41:47 America/Denver] PHP Parse error:  syntax error, unexpected 'x' (T_STRING) in /home/tasueded/public_html/my/admin/admission/printapplist.php on line 19
+[12-Sep-2017 15:44:19 America/Denver] PHP Parse error:  syntax error, unexpected 'x' (T_STRING) in /home/tasueded/public_html/my/admin/admission/printapplist.php on line 19
+[12-Sep-2017 15:44:57 America/Denver] PHP Parse error:  syntax error, unexpected 'x' (T_STRING) in /home/tasueded/public_html/my/admin/admission/printapplist.php on line 19
+[20-Sep-2017 06:24:11 America/Denver] PHP Warning:  Illegal offset type in isset or empty in /home/tasueded/public_html/my/admin/admission/editapplicant.php on line 179
+[17-Jan-2018 05:38:39 America/Denver] PHP Parse error:  syntax error, unexpected 'getAccess' (T_STRING), expecting '(' in /home/tasueded/public_html/my/admin/admission/editapplicant.php on line 1017
+[17-Jan-2018 05:38:42 America/Denver] PHP Parse error:  syntax error, unexpected 'getAccess' (T_STRING), expecting '(' in /home/tasueded/public_html/my/admin/admission/editapplicant.php on line 1017
+[17-Jan-2018 05:39:18 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home/tasueded/public_html/my/admin/admission/editapplicant.php on line 1017
+[17-Jan-2018 05:40:06 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home/tasueded/public_html/my/admin/admission/editapplicant.php on line 1017

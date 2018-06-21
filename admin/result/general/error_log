@@ -1,0 +1,1 @@
+[31-May-2018 08:50:12 America/Denver] PHP Fatal error:  Call to undefined function check_auth() in /home/tasueded/public_html/my/admin/result/general/index.php on line 7

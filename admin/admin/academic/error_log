@@ -1,0 +1,6 @@
+[08-Dec-2017 14:47:28 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/admin/academic/fte.php on line 6
+[08-Dec-2017 14:47:28 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/admin/academic/fte.php on line 6
+[08-Dec-2017 14:47:32 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/admin/academic/fte.php on line 6
+[08-Dec-2017 14:47:32 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/admin/academic/fte.php on line 6
+[08-Dec-2017 14:47:36 America/Denver] PHP Warning:  require_once(../../path.php): failed to open stream: No such file or directory in /home/tasueded/public_html/my/admin/admin/academic/fte.php on line 6
+[08-Dec-2017 14:47:36 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../../path.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tasueded/public_html/my/admin/admin/academic/fte.php on line 6
